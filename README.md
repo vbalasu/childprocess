@@ -8,7 +8,7 @@
  
  
  
- # Installation
+ ## Installation
  
  1. Download or git clone this repository
  2. Run "npm install" to install dependencies listed in package.json
