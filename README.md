@@ -1,6 +1,6 @@
 # childprocess
  
- USAGE: node childprocess sqlite3 temp.db ".help"      
+ USAGE: node childprocess.js sqlite3 temp.db ".help"      
  
  Executes a child process and saves stdout, stderr, args and exitcode in the childprocess folder    
  
